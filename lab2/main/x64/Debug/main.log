@@ -1,0 +1,12 @@
+﻿  Files.cpp
+D:\programming\c++\OP\lab2\main\Files.cpp(11,50): warning C4305: инициализация: усечение из "double" в "float"
+D:\programming\c++\OP\lab2\main\Files.cpp(220,20): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\programming\c++\OP\lab2\main\Files.cpp(222,23): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\programming\c++\OP\lab2\main\Files.cpp(241,36): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\programming\c++\OP\lab2\main\Files.cpp(244,37): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\programming\c++\OP\lab2\main\Files.cpp(250,37): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\programming\c++\OP\lab2\main\Files.cpp(253,37): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\programming\c++\OP\lab2\main\Files.cpp(259,16): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+  Создание кода...
+  main.vcxproj -> D:\programming\c++\OP\lab2\main\x64\Debug\main.exe
