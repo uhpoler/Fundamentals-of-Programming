@@ -1,0 +1,9 @@
+﻿  BinaryTree.cpp
+  main.cpp
+D:\programming\c++\OP\lab6\main.cpp(136,22): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+  Создание кода...
+  lab6.vcxproj -> D:\programming\c++\OP\lab6\x64\Debug\lab6.exe
