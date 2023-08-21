@@ -1,0 +1,6 @@
+﻿  Files.cpp
+D:\programming\c++\OP\main\Files.cpp(148,33): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+D:\programming\c++\OP\main\Files.cpp(294,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\programming\c++\OP\main\Files.cpp(346,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\programming\c++\OP\main\Files.cpp(476,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  main.vcxproj -> D:\programming\c++\OP\main\x64\Debug\main.exe
