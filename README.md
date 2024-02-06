@@ -1,4 +1,4 @@
-# secondSemestrOP
+# Fundamentals-of-Programming
 
 Topics that I studied in the subject Fundamentals of Programming
 
