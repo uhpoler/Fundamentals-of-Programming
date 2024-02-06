@@ -1,6 +1,6 @@
 # secondSemestrOP
 
-Topics that I passed in the subject Fundamentals of Programming
+Topics that I studied in the subject Fundamentals of Programming
 
 - [Data Files](./lab1/main/)
 - [Binary Files](./lab2/main/)
